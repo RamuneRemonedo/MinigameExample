@@ -1,0 +1,4 @@
+name: MiniGameExample
+version: '${project.version}'
+main: net.ramuremo.minigameexample.MiniGameExample
+api-version: 1.19
